@@ -1,6 +1,6 @@
 # MA5 TASK 2
-- Jun Linwu. Email Address: <julinwu@ucsd.edu>. </br>
-- Section B09, under the mentorship of Dr.Arsanjani. </br>
+- Jun Linwu. Email Address: <julinwu@ucsd.edu>. 
+- Section B09, under the mentorship of Dr.Arsanjani.
 
 1. **What is the most interesting topic covered in your domain this quarter?**
 
